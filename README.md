@@ -1,5 +1,8 @@
-This is a more readable merit data transformed from theymos's provided data set https://bitcointalk.org/merit.txt.xz.
+This is a more readable merit data transformed from theymos's [1] and LoyceV's [2] provided data sets.
 
-The data include all merit allocations between 23th May 2019 and 20th September 2019.
+The full history csv file which include all merit allocations between 21th January 2018 and 31th October 2019.
 
-Feel free to use it to make your own data analysis.
+It is planned to provide an update every month. Feel free to use it to make your own data analysis.
+
+[1] https://bitcointalk.org/merit.txt.xz
+[2] http://loyce.club/Merit/merit.all.txt
