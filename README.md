@@ -1,4 +1,4 @@
-This is a more readable merit data transformed from theymos's [1] and LoyceV's [2] provided data sets.
+This is a more readable merit data transformed from theymos' [1] and LoyceV's [2] provided data sets.
 
 The full history csv file which include all merit allocations between 21th January 2018 and 31th October 2019.
 
