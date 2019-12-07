@@ -1,6 +1,6 @@
 This is a more readable merit data transformed from theymos' [1] and LoyceV's [2] provided data sets.
 
-The full history csv file which include all merit allocations between 21th January 2018 and 31th October 2019.
+The full history csv file which include all merit allocations between 21th January 2018 and 30th November 2019.
 
 It is planned to provide an update every month. Feel free to use it to make your own data analysis.
 
